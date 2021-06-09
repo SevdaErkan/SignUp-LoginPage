@@ -1,0 +1,58 @@
+.body-login {
+   background-color: black;
+   box-sizing: border-box;
+   min-width: 30vw;
+   margin: auto;
+   margin-top: 100px;
+}
+
+.login {
+   background-color: white;
+   min-width: 25vw;
+   margin: 20px;
+   min-height: 50vh;
+   padding: 25px 7px 5px;
+}
+h1 {
+   text-transform: uppercase;
+   margin-bottom: 60px;
+}
+.email-login input,
+.p-login input {
+   min-width: 90%;
+   height: 35px;
+   padding: 10px;
+   font-size: 20px;
+   border-radius: 5px;
+   border-style: solid;
+   margin: auto;
+}
+.email-login,
+.p-login {
+   margin-bottom: 35px;
+   width: 90%;
+}
+
+.icon {
+   margin-right: 9px;
+   font-size: 20px;
+   line-height: 2;
+   color: rgb(94, 91, 91);
+}
+
+button {
+   width: 40%;
+   height: 45px;
+   padding: 10px 20px;
+   font-size: 20px;
+   border-radius: 5px;
+   margin: auto;
+
+   border: none;
+   color: gray;
+}
+
+h4 {
+   text-decoration: none;
+   color: #49a6e9;
+}
