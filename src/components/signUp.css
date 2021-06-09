@@ -89,7 +89,7 @@ a {
    text-decoration: none;
 }
 
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
    main {
       padding: 5px;
    }
@@ -128,4 +128,4 @@ a {
    .middle {
       margin-left: 10px;
    }
-}
+}*/
